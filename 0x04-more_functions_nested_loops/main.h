@@ -1,2 +1,2 @@
 #ifndef MAIN_H
-int _isupper(int c)4;
+int _isupper(int c);
