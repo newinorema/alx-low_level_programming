@@ -1,2 +1,2 @@
 int _putchar(char c);
-0x02-functions_nested_loops
+void print_times_table(int n);
